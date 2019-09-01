@@ -1,2 +1,2 @@
 # vue
-vuw
+vue-admin
